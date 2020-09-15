@@ -14,7 +14,7 @@ _This webpage was created for a TeamTreehouse project._
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _A folder titled "EventObject" will appear._
+* _A folder titled "colorPalette" will appear._
 * _Click into the folder and open the file titled "index.html"_
 * _Enjoy my program!_
 
